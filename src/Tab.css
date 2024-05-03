@@ -20,3 +20,10 @@
     border-radius: 0px;
     border-bottom: 2px solid green;
   }
+  .card-link{
+
+    color: var(--bs-card-color);
+    font-size:medium;
+   
+   
+  }
