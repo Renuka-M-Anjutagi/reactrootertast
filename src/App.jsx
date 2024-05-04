@@ -13,7 +13,7 @@ const App = () => {
 
   return (
     <div className='test' style={{margin:'10px',float:'center'}}>
-    <h1 style={{ text-align:'center'}}>React Router Task</h1>
+    <h1 style={{ text-align:'center'}}>React Router Task </h1>
       <Card/>
     </div>
   )
