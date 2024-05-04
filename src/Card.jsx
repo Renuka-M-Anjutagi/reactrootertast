@@ -16,28 +16,28 @@ const Card = () => {
       id:2,
       price:'$20.00 $18.00',
       title:'FULL STACK DEVELOPMENT',
-      image:'./public/2.jpg',
+      image:'../public/2.jpg',
       description:'This card has supporting text below as a natural lead-in to additional content.'
     },
     {
       id:3,
       price:'$50.00 $25.00',
       title:'DATA SCIENCE',
-      image:'./public/datascience.jpg',
+      image:'../public/datascience.jpg',
       description:'This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that equal height action.'
     },
     {
       id:4,
       price:'$40.00',
       title:'CYBER SECURITY',
-      image:'./public/cyber.jpg',
+      image:'../public/cyber.jpg',
       description:'This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.'
     },
     {
       id:5,
       price:'$40.00',
       title:'CAREER',
-      image:'./public/c1.jpg',
+      image:'../public/c1.jpg',
       description:'This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.'
     },
   ]
